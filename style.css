@@ -1,0 +1,33 @@
+.h1 {
+    color: blue;
+    text-align: center;
+    width: 551px;
+    font-size: 40px;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+    width: 550px;
+    font-weight: normal;
+    font-size: 30px;
+}
+.i {
+    color: green;
+    text-align: center;
+}
+
+.p {
+    font-size: 15px;
+    text-indent: 50px;
+    text-align: justify;
+    width: 550px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.7;
+}
+
+.ul {
+    width: 450px;
+    text-align: justify;
+    line-height: 1.3;
+}
